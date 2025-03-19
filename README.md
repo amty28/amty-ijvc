@@ -1,1 +1,1 @@
-# amty-ijvc
+# amty
